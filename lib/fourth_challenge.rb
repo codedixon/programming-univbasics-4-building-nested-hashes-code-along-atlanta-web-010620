@@ -12,8 +12,8 @@ def fourth_challenge
           :attitude => "worried"
         }
         "Mercutio": {
-          :name => "Mercutio",
-          :age => "18",
+          :name => "Mercutio"
+          :age => "18"
           :attitude => "hot-headed"
         }
       ]
@@ -25,13 +25,13 @@ def fourth_challenge
       :heroine_friends => [
         #your hashes here!
         "Steven": {
-          :name => "Steven",
-          :age => "30",
+          :name => "Steven"
+          :age => "30"
           :attitude => "confused"
         }
-        "Nurse" {
-          :name => "Nurse",
-          :age => "44",
+        "Nurse": {
+          :name => "Nurse"
+          :age => "44"
           :attitude => "worried"
         }
       ]
